@@ -161,24 +161,26 @@ and go to `localhost:1313` in your browser. From now on all the changes you make
 
 ## Available Social Icons:
 
-- codepen
-- email
-- facebook
-- gitbook
-- github
-- gitlab
-- instagram
-- kaggle
-- keybase
-- linkedin
-- slack
-- stackoverflow
-- telegram
-- twitch
-- twitter
-- youtube
+See here for a list of available icons: https://fontawesome.com/icons?m=free
 
-If you need another one, just open an issue or create a pull request with your wished icon. :)
+- ~~codepen~~
+- ~~email~~
+- ~~facebook~~
+- ~~gitbook~~
+- ~~github~~
+- ~~gitlab~~
+- ~~instagram~~
+- ~~kaggle~~
+- ~~keybase~~
+- ~~linkedin~~
+- ~~slack~~
+- ~~stackoverflow~~
+- ~~telegram~~
+- ~~twitch~~
+- ~~twitter~~
+- ~~youtube~~
+
+~~If you need another one, just open an issue or create a pull request with your wished icon. :)~~
 
 ## Known issues
 
