@@ -96,22 +96,27 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
+    icon = "fab fa-twitter"
     url  = "https://twitter.com/"
 
   [[params.social]]
     name = "email"
+    icon = "fas fa-envelope"
     url  = "mailto:nobody@example.com"
 
   [[params.social]]
     name = "github"
+    icon = "fab fa-github"
     url  = "https://github.com/"
 
   [[params.social]]
     name = "linkedin"
+    icon = "fab fa-linkedin"
     url  = "https://www.linkedin.com/"
 
   [[params.social]]
     name = "stackoverflow"
+    icon = "fab fa-stack-overflow"
     url  = "https://www.stackoverflow.com/"
 
 [languages]

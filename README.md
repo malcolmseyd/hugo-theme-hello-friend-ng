@@ -1,3 +1,8 @@
+This fork replaces the default SVG icons with Font Awesome icons,
+allowing for a lot more options.
+
+---
+
 # Hello Friend NG
 
 ![Hello Friend NG](https://dsh.re/d27822)
